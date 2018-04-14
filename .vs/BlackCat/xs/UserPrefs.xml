@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{DFC86F8B-1D27-451F-A455-E3128EDF4AB9}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.ItemProperties.BlackCat.Droid FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackCat Status">
+    <Files>
+      <File FileName="BlackCat Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlackCat.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D12E4845-B8D4-448D-8D9A-3B512AEE4130" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BlackCat.iOS>
+  <MonoDevelop.Ide.ItemProperties.BlackCat.UITests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BlackCat FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
