@@ -1,7 +1,18 @@
-﻿<Properties StartupConfiguration="{DFC86F8B-1D27-451F-A455-E3128EDF4AB9}|Default" GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.ItemProperties.BlackCat.Droid FirstBuild="True" />
+﻿<Properties StartupConfiguration="{6DA792A4-7C9A-4BE7-8BDD-669F42D7F486}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.ItemProperties.BlackCat.Droid PreferredExecutionTarget="Android.AVD_for_Nexus_200" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BlackCat Status">
     <Files>
+      <File FileName="Views/DashBoardPage.xaml.cs" Line="13" Column="13" />
+      <File FileName="Views/SideDrawer.xaml" Line="10" Column="35" />
+      <File FileName="Views/SideDrawer.xaml.cs" Line="28" Column="50" />
+      <File FileName="Views/DashBoardPage.xaml" Line="7" Column="31" />
+      <File FileName="Views/ContactusPage.xaml" Line="4" Column="35" />
+      <File FileName="Views/ContactusPage.xaml.cs" Line="8" Column="39" />
+      <File FileName="Views/AboutUsPage.xaml" Line="4" Column="30" />
+      <File FileName="Views/AboutUsPage.xaml.cs" Line="8" Column="37" />
+      <File FileName="Modal/MasterPageItem.cs" Line="10" Column="45" />
+      <File FileName="MainPage.cs" Line="34" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
       <File FileName="BlackCat Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
@@ -10,7 +21,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BlackCat.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D12E4845-B8D4-448D-8D9A-3B512AEE4130" FirstBuild="True">
+  <MonoDevelop.Ide.ItemProperties.BlackCat.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A60E86E7-1F95-4E8A-BAC9-832D3FE9773A">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.BlackCat.iOS>
   <MonoDevelop.Ide.ItemProperties.BlackCat.UITests FirstBuild="True" />

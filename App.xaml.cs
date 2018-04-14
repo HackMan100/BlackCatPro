@@ -8,7 +8,7 @@ namespace BlackCat
         {
             InitializeComponent();
 
-            MainPage = new BlackCatPage();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
